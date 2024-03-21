@@ -1,16 +1,15 @@
-# weather_app
+# WeatherApp
 
-A new Flutter project.
+WeatherApp is a Flutter mobile application designed to provide users with real-time weather updates and forecasts. It fetches weather data from the Forecast API and presents it in a user-friendly interface. This project utilizes Cubit for state management to efficiently manage and update app state.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time Weather Updates: Get accurate and up-to-date weather information for your location.
+- Hourly and Daily Forecasts: Plan your day or week ahead with detailed forecasts, including temperature, humidity, wind speed, and more.
+- Location-based Weather: Automatically detects your current location to provide personalized weather reports.
+- Customizable Settings: Tailor the app to your preferences by adjusting units (e.g., Celsius or Fahrenheit) and other settings.
+- Sleek User Interface: Enjoy a modern and intuitive design that makes navigating the app a breeze.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter: A cross-platform UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
