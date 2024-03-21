@@ -5,9 +5,9 @@ WeatherApp is a Flutter mobile application designed to provide users with real-t
 ## Features
 
 - Real-time Weather Updates: Get accurate and up-to-date weather information for your location.
+- Location Search: Search for weather in any place using the location search feature.
 - Hourly and Daily Forecasts: Plan your day or week ahead with detailed forecasts, including temperature, humidity, wind speed, and more.
 - Location-based Weather: Automatically detects your current location to provide personalized weather reports.
-- Customizable Settings: Tailor the app to your preferences by adjusting units (e.g., Celsius or Fahrenheit) and other settings.
 - Sleek User Interface: Enjoy a modern and intuitive design that makes navigating the app a breeze.
 
 ## Technologies Used
