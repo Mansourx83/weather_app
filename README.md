@@ -13,3 +13,6 @@ WeatherApp is a Flutter mobile application designed to provide users with real-t
 ## Technologies Used
 
 - Flutter: A cross-platform UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Dart: The programming language used for developing Flutter applications.
+- Cubit: A lightweight state management solution for Flutter applications, following the BLoC pattern for efficient state management.
+- Forecast API: Integration with the Forecast API to fetch weather data.
